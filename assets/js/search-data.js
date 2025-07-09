@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-pokemon",
           title: "Pokemon",
-          description: "members of the lab or group",
+          description: "About me as a Pokemon trainer",
           section: "Navigation",
           handler: () => {
             window.location.href = "/pokemon/";
