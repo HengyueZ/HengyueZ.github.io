@@ -244,10 +244,10 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhang]
+  first_name: [Hengyue]
 
-  style: apa
+  style: The Astrophysical Journal
   locale: en
 
   source: /_bibliography/
