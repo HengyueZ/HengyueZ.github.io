@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /pokemon/
 title: Pokemon
-description: members of the lab or group
+description: About me as a Pokemon trainer
 nav: true
 nav_order: 7
 
