@@ -26,4 +26,4 @@ I am a PhD student in astrophysics at the University of Oxford, working with Pro
 
 My research revolves around mysteries of SMBHs and their co-evolution with galaxies. Solving these mysteries requires measuring how the masses of SMBHs relate to properties of their host galaxies across cosmic time. I use ultra-high-resolution ALMA observations to (1) measure the SMBH masses of local galaxies to unprecedented precision and (2) measure the SMBH masses of high-redshift galaxies using dynamical methods for the first time. Check out the [Research](https://hengyuez.github.io/Research/) page for details of my work.
 
-When not doing research, you can find me competing in [official Pokemon VGC tournaments]{https://championships.pokemon.com/en-us/}. Check out the [Pokemon]{https://hengyuez.github.io/pokemon/} page for my stories and achievements. 
+When not doing research, you can find me competing in [official Pokemon VGC tournaments](https://championships.pokemon.com/en-us/). Check out the [Pokemon](https://hengyuez.github.io/pokemon/) page for my stories and achievements. 
