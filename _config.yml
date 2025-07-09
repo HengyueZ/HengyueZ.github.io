@@ -247,7 +247,7 @@ scholar:
   last_name: [Zhang]
   first_name: [Hengyue]
 
-  style: The Astrophysical Journal
+  style: _bibliography/the-astrophysical-journal.csl
   locale: en
 
   source: /_bibliography/
