@@ -7,16 +7,24 @@
     "phone": "+44 7522196600",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
   },
-  "research experience": [
+  "work: [
     {
       "name": "Sub-department of astrophysics, Oxford University",
       "position": "PhD student",
-      "url": "https://example.com",
+      "url": "https://www.physics.ox.ac.uk/our-people/hengyuezhang",
       "startDate": "2022-10",
       "endDate": "Now",
       "summary": "Weighing supermassive black holes across different redshifts using molecular-gas-dynamical modelling of ALMA observations to study the co-evolution of black holes and galaxies.",
+    },
+    {
+      "name": "Department of physics, University of California, Santa Barbara",
+      "position": "Undergraduate researcher",
+      "startDate": "2020-06",
+      "endDate": "2022-9",
+      "summary": ".",
     }
   ],
+"volunteer": [ ],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
@@ -30,6 +38,8 @@
       "courses": ["Theory of Relativity"]
     }
   ],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
       "name": "Physics",
@@ -70,4 +80,6 @@
         "Quantum Teleportation"
       ]
     }
-  ]
+],
+  "references": [],
+  "projects": []
