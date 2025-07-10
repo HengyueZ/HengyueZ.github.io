@@ -13,9 +13,8 @@ profiles:
     image: pokemon_me.jpg
     content: about_pokemon1.md
     image_circular: false # crops the image to make it circular
+  - align: left
+    image: play-pokemon-169.png
+    content: about_pokemon2.md
+    image_circular: false # crops the image to make it circular
 ---
-  #- align: left
-    #image: play-pokemon-169.png
-    #content: about_pokemon2.md
-    #image_circular: false # crops the image to make it circular
-
