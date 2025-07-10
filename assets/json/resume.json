@@ -34,16 +34,18 @@
       "area": "Astrophysics",
       "studyType": "PhD",
       "startDate": "2022-10",
-      "endDate": "2026-06"
+      "endDate": "2026-06",
+     "highlights": ["Balliol College JT Hamilton Scholarship.", "STFC studentship"]
     },
     {
       "institution": "University of California, Santa Barbara",
-      "location": "Santa Barbara, California, US",
+      "location": "Santa Barbara, CA, US",
       "url": "https://www.physics.ucsb.edu/",
       "area": "Physics",
       "studyType": "Undergraduate",
       "startDate": "2018-10",
-      "endDate": "2022-04"
+      "endDate": "2022-04",
+     "highlights": ["4.00 GPA","2022 Arnold Nordsieck Memorial Award.", "Honors student of College of Letters and Science"]
     }
   ],
   "certificates": [],
