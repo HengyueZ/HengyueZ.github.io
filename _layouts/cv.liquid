@@ -31,6 +31,15 @@ layout: default
         {% for entry in site.data.cv %}
           <a class="anchor" id="{{ entry.title }}"></a>
           <div class="card mt-3 p-3">
+             {% assign section_labels = {
+               "work": "Research experience",
+               "education": "Education",
+               "skills": "Skills",
+               "projects": "Projects",
+               "languages": "Languages",
+               "interests": "Research interests",
+               "publications": "Publications"
+             } %}
             <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
             <div>
               {% if entry.type == 'list' %}
