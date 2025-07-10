@@ -29,7 +29,7 @@
   "education": [
     {
       "institution": "University of Oxford",
-      "location": "Oxford, United Kingdom",
+      "location": "Oxford, UK",
       "url": "https://www.physics.ox.ac.uk/",
       "area": "Astrophysics",
       "studyType": "PhD",
@@ -38,7 +38,7 @@
     },
     {
       "institution": "University of California, Santa Barbara",
-      "location": "Santa Barbara, California, United States",
+      "location": "Santa Barbara, California, US",
       "url": "https://www.physics.ucsb.edu/",
       "area": "Physics",
       "studyType": "Undergraduate",
