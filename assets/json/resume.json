@@ -5,29 +5,30 @@
     "image": "",
     "email": "hengyue.zhang@physics.ox.ac.uk",
     "phone": "+44 7522196600",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Weighing supermassive black holes using ALMA molecular gas dynamics to study black hole–galaxy coevolution."
   },
-  "work: [
+  "work": [
     {
-      "name": "Sub-department of astrophysics, Oxford University",
-      "position": "PhD student",
+      "name": "Sub-department of Astrophysics, University of Oxford",
+      "position": "PhD Student",
       "url": "https://www.physics.ox.ac.uk/our-people/hengyuezhang",
       "startDate": "2022-10",
       "endDate": "Now",
-      "summary": "Weighing supermassive black holes across different redshifts using molecular-gas-dynamical modelling of ALMA observations to study the co-evolution of black holes and galaxies.",
+      "summary": "Weighing supermassive black holes across different redshifts using molecular-gas-dynamical modelling of ALMA observations."
     },
     {
-      "name": "Department of physics, University of California, Santa Barbara",
-      "position": "Undergraduate researcher",
+      "name": "Department of Physics, University of California, Santa Barbara",
+      "position": "Undergraduate Researcher",
       "startDate": "2020-06",
-      "endDate": "2022-9",
-      "summary": ".",
+      "endDate": "2022-09",
+      "url": "https://github.com/HengyueZ/astrofix",
+      "summary": "Direct imaging of exoplanets and white dwarf companions. Dynamical orbit and mass measurements of binary systems. Developed Astrofix, a code package that corrects corrupted pixels in astronomical observations."
     }
   ],
-"volunteer": [ ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "University of Zurich",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
@@ -80,7 +81,8 @@
         "Quantum Teleportation"
       ]
     }
-],
+  ],
   "references": [],
   "projects": []
 }
+
