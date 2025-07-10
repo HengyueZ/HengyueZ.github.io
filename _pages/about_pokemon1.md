@@ -1,0 +1,2 @@
+When not doing research, you can find me playing \[competitive Pokémon VGC](https://championships.pokemon.com/en-us/). I have competed in five Pokémon World Championships (2019, 2022, 2023, 2024, 2025). I finished as the 1st in the UK in the 2024 season and 3rd in the 2025 season on the \[championship points leaderboard](https://www.pokemon.com/us/play-pokemon/leaderboards/vg-masters/). I have had three top-8 finishes in major tournaments out of ~500 players. I am a member of Team China in the 2024 \[World Cup of Pokémon VGC](https://worldcupvgc.com/).
+
