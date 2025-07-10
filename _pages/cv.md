@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is my CV! For a PDF version, click the button on the top-right.
+cv_pdf: Hengyue Zhang--CV_20250630.pdf # you can also use external links here
+description: This is a short version of my CV! For details, see the PDF version on the top-right.
 toc:
   sidebar: left
 ---

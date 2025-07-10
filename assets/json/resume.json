@@ -5,7 +5,7 @@
     "image": "",
     "email": "hengyue.zhang@physics.ox.ac.uk",
     "phone": "+44 7522196600",
-    "summary": "Weighing supermassive black holes using ALMA molecular gas dynamics to study black hole–galaxy coevolution."
+    "summary": "A Chinese astronomer studying the black hole–galaxy coevolution."
   },
   "work": [
     {
@@ -28,46 +28,29 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Oxford",
+      "location": "Oxford, United Kingdom",
+      "url": "https://www.physics.ox.ac.uk/",
+      "area": "Astrophysics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-10",
+      "endDate": "2026-06",
+    },
+    {
+      "institution": "University of California, Santa Barbara",
+      "location": "Santa Barbara, California, United States",
+      "url": "https://www.physics.ucsb.edu/",
+      "area": "Physics",
+      "studyType": "Undergraduate",
+      "startDate": "2018-10",
+      "endDate": "2022-04",
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "languages": [],
+  "interests": [],
   "references": [],
   "projects": []
 }
