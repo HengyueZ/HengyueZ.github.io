@@ -8,15 +8,14 @@
 "Vision":
   color: "#009f36"
 
-"WISDOM"
+"WISDOM":
   url: https://wisdom-project.org/
   color: "#a1ccd1"
 
-"Binaries"
+"Binary systems":
   url: https://web.physics.ucsb.edu/~tbrandt/orbits.html
   color: "#7c73c0"
 
-"Astrofix"
+"Astrofix package":
   url: https://github.com/HengyueZ/astrofix
   color: "#e9b384"
-
