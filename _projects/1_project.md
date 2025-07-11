@@ -64,10 +64,10 @@ This remarkable NGC 383 measurement is shown below. Achieving a physical resolut
 Additionally, this high-resolution ALMA observation revealed a possible position angle warp in the previously unresolved central region of the molecular gas disk, which aligns the circumnuclear molecular gas disk more closely with the radio jet in this galaxy than the large-scale molecular gas disk. Such an alignment was previously only seen in megamaser disk observations.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7.5 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/NGC383_warp_model.png" title="NGC 383 warp model" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4.5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/NGC383_warp.png" title="NGC 383 warp" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
