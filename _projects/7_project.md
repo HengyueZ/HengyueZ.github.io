@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-Dynamical SMBH mass measurements are so far limited to $z<0.1$ due to the difficulty for current instruments to resolve the SoI of high-redshift SMBHs while achieving sufficient sensitivity. Thus far, all SMBH mass determinations 
+Dynamical SMBH mass measurements are so far limited to $z<0.1$ due to the difficulty for current instruments to resolve the SoI of high-redshift SMBHs while achieving sufficient sensitivity. Thus far, almost all SMBH mass determinations at higher redshifts are indirect estimates calibrated using local SMBH-galaxy scaling relations with $>0.3$ dex uncertainties.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
