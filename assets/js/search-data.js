@@ -80,21 +80,11 @@ ninja.data = [{
           description: "Supermassive black hole mass measurements using molecular gas kinematics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-glamor",
+          title: 'GLAMOR',
+          description: "The first dynamical SMBH mass measurements at high redshifts, enabled by gravitational lensing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
             },},{
         id: 'social-email',
         title: 'email',
