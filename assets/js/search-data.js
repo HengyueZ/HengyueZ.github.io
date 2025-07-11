@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-glamor",
           title: 'GLAMOR',
-          description: "The first dynamical SMBH mass measurements at high redshifts, enabled by gravitational lensing.",
+          description: "The first dynamical SMBH mass measurements at high redshifts, enabled by gravitational lensing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{
