@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-Dynamical SMBH mass measurements are so far limited to $z<0.1$ due to the difficulty for current instruments to resolve the SoI of high-redshift SMBHs while achieving sufficient sensitivity. Thus far, almost all SMBH mass determinations at higher redshifts are indirect estimates calibrated using local SMBH-galaxy scaling relations with $>0.3$ dex uncertainties.
+Dynamical SMBH mass measurements are so far limited to $z<0.1$ due to the difficulty for current instruments to resolve the SoI of high-redshift SMBHs while achieving sufficient sensitivity. Thus far, almost all SMBH mass determinations at higher redshifts are indirect estimates calibrated using local SMBH-galaxy scaling relations (with $>0.3$ dex calibration uncertainties) and limited to the brightest quasars. These estimates suggest that high-redshift SMBHs are highly overmassive compared to the local SMBH mass-stellar mass relation, implying heavy SMBH seeds and/or episodes of super-Eddington accretion. However, it requires precise SMBH mass measurements using dynamical methods to confirm the result in an unbiased sample of galaxies and directly probe SMBH formation and SMBH-galaxy coevolution across cosmic time.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
