@@ -47,6 +47,29 @@ This remarkable NGC 383 measurement is shown below. Achieving a physical resolut
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Integrated intensity (left) and line-of-sight velocity (right) maps created from our high-resolution NGC 383 data cube. Velocity enhancement due to the SMBH is clearly visible at the centre of the velocity map.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/NGC383_models.png" title="NGC 383 models" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Observed kinematic major-axis position-velocity diagram (PVD) of NGC 383 (orange scale with black contours), overlaid with the PVDs of different models (cyan contours): no SMBH (left), best-fitting model from our work (centre) and best-fitting model from [North et al. (2019; right)](https://academic.oup.com/mnras/article/490/1/319/5571102) derived from lower-resolution observations. The sharp increase (from
+the outside in) of the line-of-sight velocities within the central ≈ 0.5 arcsec is a clear kinematic signature of a central SMBH. Our best-fitting model reproduces the material beyond ≈ 350 km/s better than the prevous best-fitting model, demonstrating the importance of high-resolution observations to the precision and accuracy of SMBH mass measurements.
+</div>
+
+Additionally, this high-resolution ALMA observation revealed a possible position angle warp in the previously unresolved central region of the molecular gas disk, which aligns the circumnuclear molecular gas disk more closely with the radio jet in this galaxy than the large-scale molecular gas disk. Such an alignment was previously only seen in megamaser disk observations.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/NGC383_warp_model.png" title="NGC 383 warp model" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/NGC383_warp.png" title="NGC 383 warp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: A position angle warp model provides a better fit to the (slightly smoothed) data than a model without warps. Right: For a gas disk perpendicular to the radio jet, the zero-velocity contour (green curve) would align with the radio jet's direction. The possible PA warp in NGC 383 makes the inner circumnuclear molecular gas disk more closely aligned with the radio jet than the outer large-scale molecular gas disk.
+</div>
