@@ -13,20 +13,20 @@ Supermassive black holes (SMBHs) at the centres of galaxies dynamically dominate
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/M-sigma.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/MBH-Mbulge.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/MBH-Mstar.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left: SMBH mass-stellar velocity dispersion relation in van den Bosch (2016). Middle: SMBH mass-bulge mass relation in McConnell & Ma (2013). Right: SMBH mass-stellar mass relation in van den Bosch (2016).
 </div>
 
-The mm-Wave Interferometric Survey of Dark Object Masses ([WISDOM](https://wisdom-project.org/)) project has measured SMBH masses in 13 galaxies using ALMA observations of their molecular gas kinematics, a major step towards pinning down the SMBH-galaxy correlations across the Hubble sequence. 
+The mm-Wave Interferometric Survey of Dark Object Masses ([WISDOM](https://wisdom-project.org/)) project has measured SMBH masses in 13 galaxies using ALMA observations of their molecular gas kinematics, a major step towards pinning down the SMBH-galaxy correlations across the Hubble sequence. My work focuses on obtaining the highest-precision SMBH mass measurements using ultra-high-resolution ALMA observations to **(1)** reveal systematic inaccuracies of lower-resolution SMBH mass determinations, **(2)** distinguish the intrinsic scatter of SMBH-galaxy relations caused by variations of intrinsic galaxy properties (e.g. morphology and stellar mass) from the observational scatter caused by uncertain measurements, and **(3)** probe SMBH accretion and feedback down to circumnuclear scales.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -58,17 +58,3 @@ Just wrap your images with `<div class="col-sm">` and place them inside `<div cl
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
