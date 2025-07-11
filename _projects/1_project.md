@@ -36,19 +36,14 @@ The figure below from my recent work {% cite Zhang_2024 %} shows that the highes
     </div>
 </div>
 <div class="caption">
-    Radii and circular velocities of the innermost kinematic tracers of all SMBH mass measurements using megamaser or molecular gas kinematics, in units of the SoI radius and the stellar velocity dispersion, respectively. The dashed black line shows the Keplerian velocity profile. Solid curves in different shades of green show the velocity profiles of a mock galaxy with different Sérsic indices. The highest-resolution measurements (on the leftmost region of the figure) probe the innermost region of the velocity profile, which is dominated by the SMBH and relatively independent of the stellar mass distribution. Although maser observations generally resolve the SoI better than molecular gas observations, my recent high-resolution WISDOM measurement of NGC 383 {% cite Zhang_2025 %}, the leftmost blue data point, probes the SMBH-dominated region equally well as the best maser observations.
+    Radii and circular velocities of the innermost kinematic tracers of all SMBH mass measurements using megamaser or molecular gas kinematics, in units of the SoI radius and the stellar velocity dispersion, respectively. The dashed black line shows the Keplerian velocity profile. Solid curves in different shades of green show the velocity profiles of a mock galaxy with different Sérsic indices. The highest-resolution measurements (on the leftmost region of the figure) probe the innermost region of the velocity profile, which is dominated by the SMBH and relatively independent of the stellar mass distribution. Although maser observations generally resolve the SoI better than molecular gas observations, my recent high-resolution WISDOM measurement of the SMBH in NGC 383 {% cite Zhang_2025 %}, the leftmost blue data point, probes the SMBH-dominated region equally well as the best maser observations.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite Zhang_2024 %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+This remarkable NGC 383 measurement is shown below. Achieving a physical resolution of only 10 pc, we detected the strongest SMBH dynamical signature ever seen in molecular gas observations. Dynamical modelling using the [**KinMS**](https://github.com/TimothyADavis/KinMS_fitter) package gives an SMBH mass of $(3.58 \pm 0.19)\times10^9\,M_\odot$. This measurement has an unprecedented precision of 5% and reveals that the previous SMBH mass measurement in this galaxy using lower-resolution ALMA observations slightly overestimated the SMBH mass.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/NGC383_observations.png" title="NGC 383 observations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
