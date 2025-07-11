@@ -25,6 +25,9 @@ Supermassive black holes (SMBHs) at the centres of galaxies dynamically dominate
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
+The mm-Wave Interferometric Survey of Dark Object Masses ([WISDOM](https://wisdom-project.org/)) project has measured SMBH masses in 13 galaxies using ALMA observations of their molecular gas kinematics, a major step towards pinning down the SMBH-galaxy correlations across the Hubble sequence. 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

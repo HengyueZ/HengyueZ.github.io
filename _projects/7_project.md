@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: GLAMOR
+description: The first dynamical SMBH mass measurements at high redshifts, enabled by gravitational lensing.
+img: assets/img/SPT0418.jpg
 importance: 1
 category: work
 related_publications: true
