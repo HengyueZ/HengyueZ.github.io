@@ -1,25 +1,15 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: WISDOM
+description: Supermassive black hole mass measurements using molecular gas kinematics
+img: assets/img/BH masses.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Supermassive black holes (SMBHs) at the centres of galaxies dynamically dominate only a small region, named the "sphere of influence" (SoI). Yet, they play a crucial role in galaxy evolution, growing through gas accretion while regulating star formation through feedback mechanisms. The clues to understanding the co-evolution of SMBHs and galaxies lie in the correlations between SMBH masses and galaxy properties, such as stellar velocity dispersion, bulge mass, and total stellar mass.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
