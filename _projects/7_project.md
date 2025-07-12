@@ -12,18 +12,15 @@ Dynamical SMBH mass measurements are so far limited to $z<0.1$ due to the diffic
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JWST SMBH.png" title="JWST SMBHs" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Figure 4 of Pacucci & Loeb (2024), showing that JWST-discovered high-redshift SMBHs are overmassive relative to the local SMBH mass-stellar mass relation.
 </div>
+
+Gravitational lensing magnifies the luminosity and extends the angular size of the lensed object, providing opportunities to perform the first dynamical SMBH mass measurements beyond $z\approx0$. In collaboration with [Michael Barth](https://darthbarth.science/) at the University of Montreal, we developed a novel dynamical modelling code package that forward models gas dynamics and gravitational lensing simultaneously to infer SMBH masses in high-redshift lensed galaxies observed by ALMA. The code has three significant advantages over most existing dynamical and lens modelling codes: **(1)** It forward models the lens configuration and parameters, allowing us to quantify their contributions to the uncertainties of dynamical parameters (such as the SMBH mass). **(2)** It fits ALMA data directly in visibility space, eliminating uncertainties and systematics introduced by interferometric imaging. **(3)** It is automatically differentiable, substantially speeding up parameter fitting and allowing the use of machine-learning-based modelling procedures.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -33,24 +30,4 @@ Dynamical SMBH mass measurements are so far limited to $z<0.1$ due to the diffic
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
+I am now leading an ALMA Cycle 11 program that observes a lensed galaxy at $z=4.24$ to perform the first dynamical SMBH mass measurement at $z\approx4$. Part of the data has arrived, and the quality looks promising! Stay tuned for the results!
