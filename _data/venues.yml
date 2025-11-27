@@ -12,6 +12,9 @@
   url: https://wisdom-project.org/
   color: "#7c73c0"
 
+"GLAMOR":
+  color: "#009f55"
+
 "Binary systems":
   url: https://web.physics.ucsb.edu/~tbrandt/orbits.html
   color: "#a1ccd1"
