@@ -75,16 +75,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-wisdom",
-          title: 'WISDOM',
-          description: "Supermassive black hole mass measurements using molecular gas kinematics",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-glamor",
+          section: "News",},{id: "projects-glamor",
           title: 'GLAMOR',
           description: "The first dynamical SMBH mass measurements at high redshifts, enabled by gravitational lensing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
+              window.location.href = "/projects/GLAMOR.html";
+            },},{id: "projects-wisdom",
+          title: 'WISDOM',
+          description: "Supermassive black hole mass measurements using molecular gas kinematics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/WISDOM.html";
             },},{
         id: 'social-email',
         title: 'email',
